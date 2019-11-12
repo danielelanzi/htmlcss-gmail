@@ -1,0 +1,108 @@
+*{
+box-sizing: border-box;
+margin: 5px;
+padding: 0;
+}
+
+body{
+background-image: url(http://st.gde-fon.com/wallpapers_original/341742_gugl_android_derevyannaya_stena_logotip_2560x1369_www.Gde-Fon.com.jpg);
+}
+
+header{
+
+}
+
+button{
+  border-radius: 5px;
+}
+
+main{
+
+}
+
+footer{
+  text-align: center;
+}
+
+footer p{
+color: white;
+}
+
+footer strong{
+  color: white;
+}
+
+hr{
+  border: 0.5px solid white;
+}
+
+p{
+  color: grey;
+}
+
+strong{
+  color: black;
+}
+
+#container{
+  width: 700px;
+  margin: auto;
+}
+
+.header-top{
+  height: 90px;
+
+  line-height: 90px;
+}
+
+.header-bottom{
+
+}
+
+.logo{
+  height: 95px;
+
+  vertical-align:middle;
+}
+
+.logo-title{
+  display: inline;
+
+  color: white;
+}
+
+.title-unread{
+  color: white;
+}
+
+.title-unread span{
+  display: inline-block;
+
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  padding: 5px;
+
+  text-align: center;
+  vertical-align: middle;
+
+  border-radius: 50%;
+  background: #FFA500;
+
+  line-height: 30px;
+}
+.email {
+  margin: 0;
+  padding: 3px;
+
+  border: 1px solid black;
+  background-color: lightgrey;
+}
+
+.email p{
+  display: inline;
+}
+
+.read{
+  background-color: white;
+}
